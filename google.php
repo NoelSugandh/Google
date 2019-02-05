@@ -26,8 +26,8 @@
         <input type="submit" value="Google Search">
           <input type="submit" value="I'm Feeling Lucky">
       </form>
-    <small>Google Offered in: <a href="">Telugu</a>  <a href="">Hindi</a>
-        <a href="">Tamil</a> <a href="">Malayalam</a>  <a href="">Odissa</a>  <a href="">Gujarathi</a> <a href="">Bengali</a> <a href="">Kannada</a></small>
+    <small>Google Offered in: <a href="">తేలుగు</a>  <a href="">हिंदी</a>
+        <a href="">தமிழ்</a> <a href="">മലയാളം</a>  <a href="">ଓଡ଼ିଆ</a>  <a href="">ગુજરાતી</a> <a href="">বাংলা</a> <a href="">ಕನ್ನಡ</a></small>
      </div>
        <footer class="top">
          <nav>
